@@ -1,4 +1,4 @@
-# Raspberry Pi Air Quality Monitor
+# TAC Raspberry Pi Air Quality Monitor
 A simple air quality monitoring service for the Raspberry Pi.
 
 ## Installation
